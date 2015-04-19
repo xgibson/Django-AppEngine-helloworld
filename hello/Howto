@@ -1,6 +1,30 @@
 
+### Quick deploy
+
 # Goto ~/PyCharm/Django-AppEngine-helloworld
 
 # and then run...
 
 # appcfg.py -A xgibson-djangohw-123 update Django-AppEngine-helloworld
+
+
+### Whole process
+
+# Go to Google App Engine
+# https://console.developers.google.com/project?authuser=0
+
+# Create a project
+# Then use deploy code above
+
+# Dont forget to setup Git and the PyCharm files properly
+
+
+### Deployment Process
+
+# Make a branch in Git
+# Edit branch in Pycharm
+# Test locally
+# Make a staging project on App Engine
+# Deploy to Staging Project on App Engine
+# If all is well, commit branch to Master in Git
+# Deploy master branch to production
