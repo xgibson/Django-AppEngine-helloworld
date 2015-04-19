@@ -1,0 +1,6 @@
+
+# Goto ~/PyCharm/Django-AppEngine-helloworld
+
+# and then run...
+
+# appcfg.py -A xgibson-djangohw-123 update Django-AppEngine-helloworld
